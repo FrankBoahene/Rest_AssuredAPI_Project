@@ -11,7 +11,7 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-public class TC005_Delete_Employee_Record extends TestBase {
+public class TC006_Delete_Employee_Record extends TestBase {
 	
 	RequestSpecification httpRequest;
 	Response response;
