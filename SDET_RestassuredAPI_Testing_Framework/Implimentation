@@ -1,0 +1,34 @@
+Implimentation of Automation Framework
+
+ * Implimentation/Development
+ * Execution
+ * Maintainance
+ 
+ Implimentaion / Development
+ 
+ > Create Maven Project
+ > Update pom.xml
+ > Create Folder Structure
+ 
+ Folder Structure
+ 
+ > Project Name
+           |
+           base (Package)
+           |
+           testCases (Package)
+           |
+           utilities (Package)
+           |
+           logs (Folder)
+           |
+           reports (Folder)
+           |
+           pom.xml
+           |
+           testNG.XML
+           
+ Extent Reports
+ 
+ > Add Dependency in pom.xml    
+ > Utility file by which we can generate report      
